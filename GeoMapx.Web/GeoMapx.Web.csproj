@@ -1085,6 +1085,7 @@
     <Content Include="Views\Shared\_MetronicLayout.cshtml" />
     <Content Include="Views\Dashboard\Index.cshtml" />
     <Content Include="Views\Shared\_CleanLayout.cshtml" />
+    <Content Include="Views\Shared\_MetronicLayoutFix.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
